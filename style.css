@@ -28,7 +28,7 @@
 
 .inner-container{
     position: relative;
-    height: 90%;
+    height: 80%;
     max-width: 300px;
     width: 85%;
     margin-left: auto;
@@ -200,8 +200,8 @@ footer{
 @media (max-width:376px){
     
     .main-container{
-        overflow-x: hidden;
-        overflow-y: hidden;
+       max-height: 100vh;
+        max-width: 100vh;
 }
     
     .content{

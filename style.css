@@ -28,12 +28,12 @@
 
 .inner-container{
     position: relative;
-    height: 68%;
+    height: 64%;
     max-width: 300px;
     width: 85%;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2%;
+    margin-top: 10%;
     border-radius: 1em;
     padding: 15px;            
     background-color: hsl(217, 50%, 10%);

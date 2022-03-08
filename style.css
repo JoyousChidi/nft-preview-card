@@ -203,6 +203,8 @@ footer{
        max-height: 100vh;
         max-width: 100vh;
 }
+    .inner-container{
+         height: 90%;
     
     .content{
     height: 100%;

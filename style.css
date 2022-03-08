@@ -55,7 +55,7 @@
 
 .content{
     position: relative;
-    height: 95%;
+    height: 85%;
     max-width: 375px;
     width: 86%;
     margin-left: auto;
@@ -200,18 +200,12 @@ footer{
 @media (max-width:376px){
     
     .main-container{
-        overflow: hidden;
+        overflow-x: hidden;
+        overflow-y: hidden;
 }
     
     .content{
-    position: relative;
     height: 100%;
-    max-width: 375px;
-    width: 86%;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 1em;
-    background-color: var(--Very-dark-blue-card);
 }
     
 }
